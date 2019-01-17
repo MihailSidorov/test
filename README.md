@@ -11,5 +11,5 @@ Description test Edit by Mihail
   
   <ul>
   <li> New item
-  <li> Second item
+
   </ul>
